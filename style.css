@@ -1,0 +1,18 @@
+body{
+background-color:blueviolet;
+}
+.heading{
+background-color:cornflowerblue ;
+display:flex;
+justify-content:space-between;
+}
+#menu{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.myname{
+    background-color:darkred;
+display:flex;
+flex-direction: column;
+justify-content:right;
+}
